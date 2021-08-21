@@ -1,5 +1,6 @@
 # animated_ScreenSaver
-A video that shows the final result.</br>
+"Run_Viewer_ME.java" is the final file that is to be run.</br>
+A video of the result is attached below.</br>
 <b>NOTE- Java FX was used as the main focus was to understand and implement polymorphism and inheritance. 
 
 
